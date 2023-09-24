@@ -20,10 +20,10 @@ class Kasir {
 // daftar menu
       kataPembuka = "========================================================";
       kataPembuka += "\nSelamat datang di Toko Impian, mau beli barang apa ?";
-      kataPembuka += "\n1. Poster Hidup bahagia dunia akhirat ($ 33) - " + totalBarang1 + " barang terjual";
-      kataPembuka += "\n2. Poster Kapal pesiar dan uang 63 trilyun rupiah ($ 23) - " + totalBarang2 + " barang terjual";
-      kataPembuka += "\n3. Poster Kemampuan untuk bernapas di dalam air ($ 38) - " + totalBarang3 + " barang terjual";
-      kataPembuka += "\n4. Poster Kebun berisi tomat dan apel untuk dijual ($ 15) - " + totalBarang4 + " barang terjual";
+      kataPembuka += "\n1. Poster Hidup bahagia dunia akhirat ($ 33) - " + totalBarang1 + " Stock";
+      kataPembuka += "\n2. Poster Kapal pesiar dan uang 63 trilyun rupiah ($ 23) - " + totalBarang2 + " Stock";
+      kataPembuka += "\n3. Poster Kemampuan untuk bernapas di dalam air ($ 38) - " + totalBarang3 + " Stock";
+      kataPembuka += "\n4. Poster Kebun berisi tomat dan apel untuk dijual ($ 15) - " + totalBarang4 + " Stock";
       kataPembuka += "\n0. Program ini kurang bermanfaat, saya memilih keluar";
       kataPembuka += "\n9. pembayaran";
       kataPembuka += "\n\nTotal keuntungan toko saat ini $ " + keuntungan + ",,, alhamdulillah";
